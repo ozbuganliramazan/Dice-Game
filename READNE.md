@@ -1,8 +1,8 @@
-<h1>Zar oynu</h1>
+<h1>Dice Gameh</H1>
 
 
 
-<p>Html, Css, JavaScrip beraber zar uynu</p>
+<p>Dice Game With HTML CSS JavaScript</p>
 
 
 <img src="zar.gif"/>
